@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: eureka-client-service
+#  cloud:
+#    config:
+#      uri:
+
+
+eureka:
+    client:
+      serviceUrl:
+        defaultZone: https://**********.appspot.com/eureka
