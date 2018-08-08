@@ -1,10 +1,6 @@
 spring:
   application:
     name: eureka-client-service
-#  cloud:
-#    config:
-#      uri:
-
 
 eureka:
     client:
